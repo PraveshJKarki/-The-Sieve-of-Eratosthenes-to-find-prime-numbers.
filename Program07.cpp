@@ -1,6 +1,5 @@
 /**
  * Programmer: Pravesh Jung Karki
- * CSC 240 Program 07
  * Description: In this program  we use
  * a variation of what is called "The Sieve of Eratosthenes" to find
  * the prime numbers. At first we will ask for the lower bound and
